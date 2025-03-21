@@ -5,6 +5,6 @@ Olá! Sou **Guilherme Miranda**, estudante de **Sistemas de Informação**. Esto
 ***
 📩 **Vamos nos conectar!** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-miranda-4358aa340)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/guilherme-miranda-4358aa340](https://www.linkedin.com/in/guilherme-miranda-4358aa340/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( (https://github.com/xguimiranda))
 ##
