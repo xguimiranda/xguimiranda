@@ -1,0 +1,29 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: xguimiranda
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Commit & Push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "gerar pacman contribution graph"
+          add: "output/*.svg"
