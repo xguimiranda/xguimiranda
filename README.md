@@ -75,6 +75,8 @@
 
 ###
 
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=xguimiranda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -84,7 +86,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de Contribuições Pac-Man" src="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
