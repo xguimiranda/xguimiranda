@@ -19,6 +19,7 @@
 
 ###
 
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=700&size=28&duration=3000&pause=2000&color=07A700&width=435&lines=Gui+Miranda+%7C+Estudante+de+SI" alt="Typing SVG" /></a></h1>
 <h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
