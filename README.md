@@ -1,99 +1,91 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif?cid=ecf05e47x4j65aiq6y0y7fwqg4aep75zvk0352jyvvpk7gpn&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="200" src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif?cid=ecf05e47x4j65aiq6y0y7fwqg4aep75zvk0352jyvvpk7gpn&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
-###
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermeemiranda/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/xguimiranda/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
 
-###
+<br />
 
-<h1 align="center"></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=700&size=28&duration=3000&pause=2000&color=fc8f00&width=435&lines=Gui+Miranda+%7C+Estudante+de+SI" alt="Typing SVG" />
+  </a>
+</h1>
 
-###
+---
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=700&size=28&duration=3000&pause=2000&color=fc8f00&width=435&lines=Gui+Miranda+%7C+Estudante+de+SI" alt="Typing SVG" /></a></h1>
-<h3 align="left">👩‍💻  Sobre Mim</h3>
+### 👨‍💻 Sobre Mim
 
-###
+📍 São Paulo - SP  
+🔭 Buscando ser melhor a cada dia  
+📚 Atualmente estudando Sistemas de Informação  
+⚡ Vamos nos conectar no LinkedIn!
 
-<p align="left">📍São Paulo-SP<br>🔭 Buscando ser melhor a cada dia<br>📚 Atualmente estudando Sistemas de Informação<br>⚡ Vamos nos conectar no LinkedIn!</p>
+---
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
 </div>
 
-###
+---
 
-<h3 align="left">Repositório de Projetos </h3>
+### 📂 Repositório de Projetos
 
-###
+- **Frontend** – Interfaces com HTML, CSS, JS  
+- **Python, Java, C++** – Projetos e desafios práticos  
+- **Desafios** – Exercícios para treinar lógica e estruturas  
+- **Aprendizado** – Anotações e mini-projetos de estudo
 
-<p align="left">
- <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
- <b>Python, Java, C++</b> - Projetos e desafios <br>
- <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
- <b>Aprendizado</b> - Anotações e mini-projetos
-</p>
+---
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-###
+### 🔥 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=xguimiranda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=xguimiranda&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Stats" />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xguimiranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xguimiranda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xguimiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xguimiranda&layout=compact&langs_count=5&theme=dark&card_width=320&cache_seconds=60" height="150" />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico estilo pacman" src="https://raw.githubusercontent.com/xguimiranda/xguimiranda/output/pacman-contribution-graph.svg">
 </picture>
-
-###
