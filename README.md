@@ -71,11 +71,7 @@
 
 ### 🔥 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xguimiranda&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Stats" />
-</div>
 
-<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xguimiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" height="150" />
