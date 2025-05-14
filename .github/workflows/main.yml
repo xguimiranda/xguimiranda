@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: xguimiranda
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions'
