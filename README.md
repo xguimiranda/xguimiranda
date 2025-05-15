@@ -33,8 +33,7 @@ I'm an Information Systems student at FIAP, passionate about back-end developmen
 
 ## 📊 Contribution Activity in 3D
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
-
+![3D Contribution Graph](https://raw.githubusercontent.com/xguimiranda/xguimiranda/main/profile-3d-contrib/profile-night-green.svg)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xguimiranda&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xguimiranda&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
