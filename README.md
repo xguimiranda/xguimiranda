@@ -35,6 +35,11 @@ I'm an Information Systems student at FIAP, passionate about back-end developmen
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xguimiranda&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xguimiranda&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
 ---
 
 ## 📫 Get in Touch
@@ -43,6 +48,3 @@ I'm an Information Systems student at FIAP, passionate about back-end developmen
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimirandasa@outlook.com)
 
 ---
-
-> “Consistency is what transforms average into excellence.”  
-Thanks for visiting my profile.
