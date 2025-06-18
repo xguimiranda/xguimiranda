@@ -1,6 +1,6 @@
 💭😎
 
-Hey, I'm Guilherme Miranda, an Information Systems student at FIAP. I focus on back-end development, system design, problem-solving, and clean, scalable code.
+Hey, I'm Guilherme Miranda, an Information Systems student at FIAP. I focus on back-end development, system design, problem-solving, clean and scalable code.
 
 While my focus is back-end development, I have the ability to work across the full stack when necessary.
 
