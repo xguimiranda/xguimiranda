@@ -1,14 +1,18 @@
-# 👋 Hello, I'm Guilherme Miranda
+💭😎
 
-I'm an Information Systems student at FIAP, passionate about back-end development, problem-solving, clean code, and system design.  
-Constantly improving through structured learning and hands-on practice.
+Hey, I'm Guilherme Miranda, an Information Systems student at FIAP. I focus on back-end development, system design, problem-solving, and clean, scalable code.
+
+While my focus is back-end development, I have the ability to work across the full stack when necessary.
+
+Beyond coding, I'm developing a strong understanding of how technology drives business strategy. My studies in Information Systems involve designing, implementing, and managing systems that support decision-making, optimize processes, and generate competitive advantage.
+
+This includes:
+- Business process modeling and its integration with Information Systems.
+- Data-driven decision-making, from data capture to information management.
+- Applying quantitative and financial approaches to evaluate and optimize systems.
+- Understanding CRM, ERP, and Business Intelligence solutions.
+- A strategic mindset aligned with Industry 4.0 and modern digital ecosystems.
 
 ## 🚀 Featured Projects
 
 - [chess-system-java](https://github.com/xguimiranda/chess-system-java) — Java Chess System (Working on it)
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xguimiranda) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimirandasa@outlook.com)
