@@ -9,3 +9,4 @@ Beyond coding, I'm developing a strong understanding of how technology drives bu
 ## 🚀 Featured Projects
 
 - [chess-system-java](https://github.com/xguimiranda/chess-system-java) — Java Chess System (Working on it)
+- [java-dao-JDBC](https://github.com/xguimiranda/demo-dao-jdbc) — Java Dao JDBC System
