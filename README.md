@@ -6,7 +6,3 @@ While my focus is back-end development, I have the ability to work across the fu
 
 Beyond coding, I'm developing a strong understanding of how technology drives business strategy. My studies in Information Systems involve designing, implementing, and managing systems that support decision-making, optimize processes, and generate competitive advantage.
 
-## 🚀 Featured Projects
-
-- [chess-system-java](https://github.com/xguimiranda/chess-system-java) — Java Chess System
-- [java-dao-JDBC](https://github.com/xguimiranda/demo-dao-jdbc) — Java Dao JDBC System
